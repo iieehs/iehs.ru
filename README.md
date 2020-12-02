@@ -1,2 +1,2 @@
 # iehs.ru
-Website texsts and assets
+Website texts and assets
